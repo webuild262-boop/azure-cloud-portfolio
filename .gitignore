@@ -1,0 +1,7 @@
+*.mp4
+*.docx
+*.pdf
+*.odt
+*.zip
+.env
+__pycache__/
